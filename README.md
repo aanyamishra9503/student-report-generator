@@ -53,6 +53,6 @@ A simple **Python-based Student Management System** that allows users to create,
 - Convert into web-based application  
 
 ## 👨‍💻 Author
-Made by: Aanya Mishra
-GitHub: https://github.com/aanyamishra9503
+- Made by: Aanya Mishra
+- GitHub: https://github.com/aanyamishra9503
 
